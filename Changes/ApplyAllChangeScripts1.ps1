@@ -1,8 +1,8 @@
 # needs this module installed. this needs admin rights
 #Install-Module -Name SqlServer
 
-# someplaces, you need to run it this way : 
-# powershell.exe -executionpolicy bypass -file .\ApplyAllChangeScripts_v3.ps1
+# sometimes, you need to run it this way : 
+# powershell.exe -executionpolicy bypass -file .\ApplyAllChangeScripts.ps1
 
 param (
     #DB info 
