@@ -1,0 +1,1 @@
+ALTER TABLE Products ADD Author nvarchar(200) NULL
